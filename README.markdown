@@ -1,5 +1,5 @@
 #  README file
-Hi this is Artem geting familiar with Git
+Hi this is Artem. Geting familiar with Git.
 It is very important
 
 
